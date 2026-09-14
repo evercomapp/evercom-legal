@@ -1,8 +1,10 @@
-# Terms of Use
+# Terms of Use — review draft
 
-Last updated: September 15, 2026
-
-These terms explain your rights and responsibilities when using Evercom, including subscriptions, refunds, customer content and AI features.
+**Historical working draft. The clean root document is the website source; do not publish this file.**
+**Not effective or ready for publication. Prepared 15 September 2026.**
+This is proposed replacement wording, not an amendment to existing customer
+contracts. Bracketed review notes must be resolved before adoption. Business
+choices that have not been approved are listed in [the review notes](review-notes.md).
 
 ## 1. Who we are and when these terms apply
 
@@ -10,6 +12,9 @@ Evercom is operated by **POSTMYPOST LLC, Kazakhstan** ("Evercom", "we", "us"). Y
 
 Our address is **Kanysh Satbayev st., 3/1, Astana, Kazakhstan**.
 Our Business Identification Number (BIN) is **260140021721**.
+
+[Before publication: set an effective date. Company details were supplied by
+the operator; do not label them as independently certified registry information.]
 
 These terms govern your access to our hosted Evercom service, including free
 and paid plans. If you accept these terms on behalf of a business or other
@@ -27,6 +32,9 @@ expressly covers. If we enter into a Data Processing Agreement with you, that
 agreement governs our processing of personal data on your behalf and prevails
 over conflicting provisions of these terms on that subject. Software offered
 under a separate licence is governed by that licence for the rights it grants.
+
+[Before publication: verify the registration acceptance flow, order documents
+and any separate licences or Data Processing Agreement actually offered.]
 
 ## 2. The service
 
@@ -127,11 +135,17 @@ The transaction is also subject to the purchase terms presented by Lemon
 Squeezy at checkout; these terms govern your use of Evercom. Neither set of
 terms removes your mandatory legal rights.
 
+[Before publication: verify the live checkout and buyer terms, including the
+seller named on receipts and the refund/cancellation routes. Do not claim
+that this integration has been tested merely because the provider is known.]
+
+[Billing proposal — confirm the actual checkout and cancellation procedure:
 If you purchase an automatically renewing subscription, it renews for the
-period shown at checkout unless cancelled before renewal. To cancel future
-renewals, use the subscription-management link provided with your purchase
-or contact support@evercom.app. Cancellation normally takes effect at the end
-of the current paid period; a refund or termination may end paid access sooner.
+period shown at checkout unless cancelled before renewal. You can cancel
+future renewals through the billing controls provided for your account or by
+contacting support@evercom.app. Cancellation takes effect at the end of the
+current paid period, and access continues until then unless a refund,
+termination or other agreed arrangement ends access sooner.]
 
 Cancelling a subscription does not by itself close your workspace or erase its
 data. Account closure and deletion are addressed separately below.
@@ -160,10 +174,10 @@ This voluntary first-payment guarantee does not apply to subsequent renewal
 payments. Renewal payments are non-refundable unless applicable law requires
 a refund or we agree otherwise. You may cancel future renewals at any time.
 
-Refunds are processed through the payment provider, normally to the original
-payment method. We will confirm the outcome of your request and any effect
-on your subscription. Payment-provider and bank processing can affect when
-funds reach you. Any deadline required by applicable law takes precedence.
+[Confirm refund administration before publication: an approved first-payment
+refund ends the paid subscription and prevents its renewal. Refunds go back
+through the original payment method where possible. State the processing
+deadline supported by the payment provider and applicable law.]
 
 This guarantee is additional to your statutory rights. Nothing in these terms
 limits a right to withdraw, cancel, obtain a refund or use another remedy that
@@ -220,10 +234,37 @@ request deletion. We will explain the available process and any limitations.
 Retention, deletion and legally required exceptions are described in our
 Privacy Policy and any applicable Data Processing Agreement.
 
+[Owner-approved target, pending implementation: We will delete the closed
+workspace's customer data from active systems within 30 days of closure.
+Backup copies will expire no later than 90 days after closure. Information
+that applicable law requires us to retain will be restricted to that purpose
+and kept only for the required period.]
+
+[Before publication: implement and verify these deadlines across all stores,
+confirm the export/request and legal-hold procedures, and align the Data
+Processing Agreement. Current account/workspace deletion is soft deletion.
+The approved target is not a claim that these controls exist today.]
+
+[Implementation deferred by the owner: retain the 30/90-day target in planning,
+but do not adopt the preceding promise in effective terms before it is met.
+Deferring automation does not defer applicable duties to handle erasure
+requests or limit retention. Verify the interim operating procedure.]
+
 ## 12. Liability
 
 Nothing in these terms excludes or limits liability that cannot lawfully be
 excluded or limited, or deprives a consumer of mandatory remedies.
+
+[Business-only liability proposal for owner and local counsel review: Subject
+to the preceding paragraph, neither party is liable to the other for indirect
+or consequential losses arising from the service. Each party's aggregate
+liability arising out of this agreement is limited to the subscription fees
+paid or payable for the affected service in the 12 months before the event
+giving rise to the claim. The cap does not limit fees properly due, refunds
+expressly owed, fraud, deliberate misconduct or any separately agreed
+data-protection liability. This limitation applies only to business customers.
+Assess whether confidentiality and data breaches require a separate cap, and
+how the clause should operate for free accounts.]
 
 If an event beyond a party's reasonable control prevents performance, that
 party must take reasonable steps to reduce its effects and inform the other
@@ -243,16 +284,14 @@ Revisions will show their effective date. Changes do not apply retroactively
 to disputes that arose before the change. If part of these terms cannot be
 enforced, the remaining provisions continue so far as the law permits.
 
-## 14. Complaints and legal rights
+## 14. Complaints and applicable law
 
 Please contact support@evercom.app so we can try to resolve a concern. This
 does not prevent you from contacting a regulator or exercising legal rights.
 
-Nothing in these terms removes protections or access to courts that mandatory
-law gives you. Disputes may be brought before a court with jurisdiction under
-applicable law. We do not require you to waive mandatory consumer rights as a
-condition of using Evercom.
-
-## Company and contact details
-
-**POSTMYPOST LLC** · BIN **260140021721** · Kanysh Satbayev st., 3/1, Astana, Kazakhstan · [support@evercom.app](mailto:support@evercom.app)
+[Jurisdiction proposal for local counsel review: Kazakhstan law governs this
+agreement. If you are a consumer, this choice does not remove mandatory
+protections under the law applicable to you or require you to bring claims in
+a court that applicable law does not require you to use. Specify a suitable
+court arrangement for business disputes using the supplied address and verified
+registration details. Do not use an unverified exclusive venue or mandatory arbitration.]
