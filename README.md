@@ -1,16 +1,16 @@
-# Evercom Legal Documents
+# Evercom legal documents — moved
 
-Website legal text for POSTMYPOST LLC, Kazakhstan, BIN 260140021721.
+Legal documents are now maintained with the website in
+[evercom-landing/docs/legal](https://github.com/evercomapp/evercom-landing/tree/main/docs/legal).
+This repository is retained as a read-only historical archive.
 
-- [Terms of Use](terms-of-use.md)
-- [Privacy Policy](privacy-policy.md)
+The website imports its authoritative policy sources from that directory.
+Readable Markdown copies, historical drafts, research and follow-up notes also
+live there. Future legal changes must be made in `evercom-landing`.
 
-These clean documents are integrated into the new website in
-`../evercom-landing/src/legalDocuments.ts`. Keep both representations in sync.
-The September 15, 2026 revision is prepared for the new website; a local commit
-is not a production deployment or notice to existing customers.
+The documents and drafts in this repository preserve the pre-migration history
+through the September 15, 2026 revision. They are not the current editing source.
+The published pages remain:
 
-[Operational and legal follow-ups](drafts/review-notes.md) remain recorded.
-Files named `drafts/terms-of-use.md` and `drafts/privacy-policy.md` are historical
-working drafts, not the source to publish. They retain editorial notes and
-proposals that were deliberately excluded from the integrated text.
+- [Terms of use](https://evercom.app/terms-of-use)
+- [Privacy policy](https://evercom.app/privacy-policy)
